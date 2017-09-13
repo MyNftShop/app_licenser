@@ -17,6 +17,12 @@
 
 	生成 [{appid:'XXX',state:0}] 私钥加密,的字符串,base64编码,提交到服务器.
 
+## 访问接口
+
+https://sangxiaokai.github.io/app_licenser/
+
+
+
 
 ## 目录结构设计
 
