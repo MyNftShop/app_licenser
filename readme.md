@@ -21,8 +21,12 @@
 
 https://sangxiaokai.github.io/app_licenser/
 
+	Users
+	  -----demo@demo.html
+	  -----user@user.html
 
-
+数据:
+	[{appid:'XXX',state:0}] ----加密后的字符串
 
 ## 目录结构设计
 
