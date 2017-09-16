@@ -62,7 +62,16 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 					------img/alipay.jpg 支付宝二维码
 					------img/weixin.jpg 微信二维码
 
+----------------------------------
+#### 更新:json增加返回参数:padding,用于解决rsa加密解密出错的情况
+2017年9月17日 04:38:20
 
+```
+//例子..
+
+[{"appid":"0KQm7SnYg16AxAFz6sJbbs/FpNaLvzRvK4jiqniQee9uWdPEtoY+vYfSpE+aQLaPaMqOFtU/zySdJrauzUCS2X+J3mlxh3KxailKkksb3hgIyFl7fWCQaAVWbNKyQvsCxJPDAvU+YAYOSnIzB8BIcAVpoLHHetl+b7WLiM3kpAk=","padding":"0","state":1}]
+
+```
 
 
 
