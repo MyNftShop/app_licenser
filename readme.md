@@ -28,10 +28,11 @@
 LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 
 1.授权用户数据库
-
-	Users
-	  -----demo@demo.html
-	  -----user@user.html
+	Apps
+	  -----[app_name]
+		----Users
+			-----demo@demo.html
+			-----user@user.html
 比如Url: [LICENSE_ROOT]/Apps/Users/demo@demo.html
 
 
@@ -57,7 +58,7 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 	Apps
 	  -----[app_name]
 			------pay/ 付款说明链接静态文档
-				------index.html 付款说明
+				------index.html 付款说明,写明付款的说明以及软件交付流程
 					------img/alipay.jpg 支付宝二维码
 					------img/weixin.jpg 微信二维码
 
