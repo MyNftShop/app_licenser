@@ -32,7 +32,7 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 	Users
 	  -----demo@demo.html
 	  -----user@user.html
-比如Url: [LICENSE_ROOT]/Users/demo@demo.html
+比如Url: [LICENSE_ROOT]/Apps/Users/demo@demo.html
 
 
 数据:
