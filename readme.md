@@ -1,5 +1,4 @@
-# 软件开发学习交流QQ群 157978042 欢迎加入
-
+# 软件开发工作学习交流QQ群 157978042 欢迎加入
 
 # GitHub实现的软件授权数据库[静态]
 
@@ -35,10 +34,11 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 			-----user@user.html
 比如Url: [LICENSE_ROOT]/Apps/Users/demo@demo.html
 
+例子： https://sangxiaokai.github.io/app_licenser/myapp/Users/user1@mail.com.html
 
-数据:
+返回JSON数据:
 	[{appid:'XXX',state:0}] ----加密后的字符串
-
+客户端在解析即可
 
 2.软件更新接口已经下载列表
 
