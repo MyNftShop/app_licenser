@@ -38,7 +38,18 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 
 返回JSON数据:
 	[{appid:'XXX',state:0}] ----加密后的字符串
-客户端在解析即可
+
+```
+[
+	{
+		"appid":"bzlIjQdfDaI8bKYZFMHp9Z7MEleeZ23Q+XWMCehsG21bPoly5o3Q5cA4c+HsN8xyN8H1J+Xf8OlFKTTdq4KWJehc+WZr7tTPKLNdyhAt5R1pT97xazZmJVk/itI8/uFi75x3NhJuayqAvSKdc+WYLLqjIguahZkDDwMRoHLx2iY=",
+		"padding":"",
+		"state":1
+	}
+]
+
+```
+客户端解析JSON即可
 
 2.软件更新接口已经下载列表
 
