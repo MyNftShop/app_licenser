@@ -40,6 +40,7 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 	[{appid:'XXX',state:0}] ----加密后的字符串
 客户端在解析即可
 
+
 2.软件更新接口已经下载列表
 
 	Apps
