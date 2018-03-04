@@ -84,7 +84,9 @@ LICENSE_ROOT = https://sangxiaokai.github.io/app_licenser
 
 ```
 
+## 捐赠(Donation)
 
+![](https://github.com/sangxiaokai/app_licenser/blob/master/mypay.png)
 
 
 
